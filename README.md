@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddielin0926&label=Profile%20views&color=0e75b6&style=flat" alt="eddielin0926" /> </p>
 
-- 🔭 I’m currently working on [AInimal](https://official.ainimal.io/)
+- 🔭 I’m currently working on [cjkfuzz](https://github.com/eddielin0926/cjkfuzz)
 
 - 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on [go-backend](https://github.com/eddielin0926/go-backend)
 
+- 🤝 I’m looking for help with [img2ico](https://github.com/eddielin0926/img2ico)
+
 - 💬 Ask me about **React Native**
 
 - 📫 How to reach me **eddielin0926@gmail.com**
 
-- 📄 Know about my experiences [https://ainimal.io/eddie-lin](https://ainimal.io/eddie-lin)
-
-- ⚡ Fun fact **I love reading**
+- 📄 Know about my experiences [https://github.com/eddielin0926/resume](https://github.com/eddielin0926/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/林群凱-eddie-lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="林群凱-eddie-lin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cyun-kai-lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyun-kai-lin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17576822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17576822" height="30" width="40" /></a>
 <a href="https://kaggle.com/eddielin0926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eddielin0926" height="30" width="40" /></a>
 <a href="https://fb.com/eddie.lin.0926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eddie.lin.0926" height="30" width="40" /></a>
