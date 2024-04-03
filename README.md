@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddielin0926&label=Profile%20views&color=0e75b6&style=flat" alt="eddielin0926" /> </p>
 
-- 🔭 I’m currently working on [Kaggle Plus](https://github.com/eddielin0926/cjkfuzz)
+- 🔭 I’m currently working on [Kaggle Plus](https://github.com/eddielin0926/kaggle-plus)
 
 - 🌱 I’m currently learning **Rust**
 
