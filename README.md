@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **eddielin0926@gmail.com**
 
-- 📄 Know about my experiences [eddielin.dev](http://eddielin.dev)
+- 📄 Know about my experiences [linkedin.com/in/cyun-kai-lin](https://www.linkedin.com/in/cyun-kai-lin/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
